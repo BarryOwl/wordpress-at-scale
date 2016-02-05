@@ -1,17 +1,14 @@
 ---
-ID: 22
+ID: 312
 post_title: Development and Workflow
 author: admin
-post_date: 2015-12-04 10:39:18
-post_excerpt: >
-  Measure Twice. Cut Once. Revert as
-  Needed
+post_date: 2016-02-05 11:33:01
+post_excerpt: ""
 layout: page
 permalink: >
-  http://www.scalewp.io/development-and-workflow/
+  http://www.revealthis.com/development-and-workflow-2/
 published: true
 ---
-
 ## Scale Your Development Process
 
 ### Measure Twice. Cut Once. Revert as Needed.

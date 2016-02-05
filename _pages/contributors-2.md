@@ -1,10 +1,14 @@
 ---
-ID: 395
+ID: 309
 post_title: Contributors
+author: admin
+post_date: 2016-02-05 11:33:00
+post_excerpt: ""
 layout: page
+permalink: >
+  http://www.revealthis.com/contributors-2/
 published: true
 ---
-
 ## Meet Our Contributors
 
 ### The Proverbial "Shoulders of Giants"

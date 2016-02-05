@@ -1,14 +1,14 @@
 ---
-ID: 18
+ID: 318
 post_title: Query Performance
-author: Josh Koenig
-post_date: 2015-12-04 10:38:02
-post_excerpt: The Database Is the Ultimate Bottleneck
+author: admin
+post_date: 2016-02-05 11:33:01
+post_excerpt: ""
 layout: page
-permalink: http://www.scalewp.io/query-performance/
+permalink: >
+  http://www.revealthis.com/query-performance-2/
 published: true
 ---
-
 ## Scale Your Queries
 
 ### Database Replicas, When Great Caching Just Isn't Enough

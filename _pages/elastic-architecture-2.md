@@ -1,17 +1,14 @@
 ---
-ID: 11
+ID: 315
 post_title: Elastic Architecture
-author: Josh Koenig
-post_date: 2015-12-04 09:59:36
-post_excerpt: >
-  Horizontal Scalability Is the
-  Scalability That Matters
+author: admin
+post_date: 2016-02-05 11:33:01
+post_excerpt: ""
 layout: page
 permalink: >
-  http://www.scalewp.io/elastic-architecture/
+  http://www.revealthis.com/elastic-architecture-2/
 published: true
 ---
-
 ## Take the Air-Quotes Out of "Cloud"
 
 ### Horizontal Scalability Is the Scalability That Matters

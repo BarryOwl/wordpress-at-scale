@@ -1,17 +1,14 @@
 ---
-ID: 20
+ID: 306
 post_title: A Real-World Scalable Architecture
-author: Josh Koenig
-post_date: 2015-12-04 10:38:45
-post_excerpt: >
-  Scalable Architecture is More Than Just
-  LAMP
+author: admin
+post_date: 2016-02-05 11:33:00
+post_excerpt: ""
 layout: page
 permalink: >
-  http://www.scalewp.io/a-real-world-scalable-architecture/
+  http://www.revealthis.com/a-real-world-scalable-architecture-2/
 published: true
 ---
-
 ## Putting it all Together
 
 ### This Ain't Your Parents' "LAMP Stack"

@@ -1,14 +1,12 @@
 ---
-ID: 382
+ID: 321
 post_title: Searching for Scale
-author: Josh Koenig
-post_date: 2015-12-22 16:14:52
-post_excerpt: >
-  Improve User Experience and Database
-  Performance With a Search Index
+author: admin
+post_date: 2016-02-05 11:33:01
+post_excerpt: ""
 layout: page
 permalink: >
-  http://www.scalewp.io/searching-for-scale/
+  http://www.revealthis.com/searching-for-scale-2/
 published: true
 ---
 ## Enjoy Faster, More Relevant Results
